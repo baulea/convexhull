@@ -5,7 +5,7 @@
 
     <groupId>de.baule.maven</groupId>
     <artifactId>convexhull</artifactId>
-    <version>0.0.3-SNAPSHOT</version>
+    <version>0.0.3</version>
 
     <name>convexhull</name>
     <url>https://github.com/baulea/convexhull</url>
@@ -38,7 +38,7 @@
         <connection>scm:git:${project.scm.url}</connection>
         <developerConnection>scm:git:${project.scm.url}</developerConnection>
         <url>git@github.com:baulea/convexhull.git</url>
-        <tag>convexhull-0.0.2</tag>
+        <tag>convexhull-0.0.3</tag>
     </scm>
 
     <build>
